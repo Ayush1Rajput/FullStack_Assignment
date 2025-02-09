@@ -1,0 +1,2 @@
+Task 2: Reading and Writing Files Using the fs Module
+Your task is to read a file from the filesystem, modify its content, and save the modified content back into a new file.
