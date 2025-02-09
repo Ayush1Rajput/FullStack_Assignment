@@ -1,0 +1,1 @@
+Task-2 : Node.js is built around the concept of non-blocking I/O. You are tasked with creating a simple script that reads a file and then logs its content to the console without blocking the execution of other code.
