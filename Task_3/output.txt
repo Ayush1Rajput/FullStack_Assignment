@@ -1,0 +1,6 @@
+
+Task 1: Reading Data from a File and Logging to Console
+You need to read the contents of a file and log it to the console.
+Use the fs module to read a file asynchronously and display its content in the console.
+
+This is the appended text.
